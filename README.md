@@ -194,6 +194,12 @@ curl -s https://flightmapworld.com/mcp \
 - [Flight deals](https://flightmapworld.com/deals)
 - [Newly seen routes](https://flightmapworld.com/new-routes)
 
+## Listed on
+
+[![FlightMapWorld - Listed on Claude AI Directory](https://www.claudeai.directory/badge/flightmapworld)](https://www.claudeai.directory/launches/flightmapworld)
+
+- [Official MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=flightmapworld): `com.flightmapworld/flights`
+
 ## License
 
 The code and documentation in this repository are under the [MIT license](LICENSE).
