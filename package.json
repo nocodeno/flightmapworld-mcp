@@ -1,0 +1,40 @@
+{
+  "name": "flightmapworld-mcp",
+  "version": "1.0.0",
+  "description": "MCP server for flight routes: nonstop destinations, airlines, flight times, routings with stops and the lowest fares, from FlightMapWorld.",
+  "keywords": [
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "flights",
+    "flight-routes",
+    "airports",
+    "travel",
+    "claude",
+    "chatgpt",
+    "ai-tools"
+  ],
+  "homepage": "https://flightmapworld.com/mcp",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nocodeno/flightmapworld-mcp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nocodeno/flightmapworld-mcp/issues"
+  },
+  "license": "MIT",
+  "author": "FlightMapWorld (https://flightmapworld.com)",
+  "mcpName": "com.flightmapworld/flights",
+  "bin": {
+    "flightmapworld-mcp": "index.js"
+  },
+  "files": [
+    "index.js",
+    "server.json",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=18"
+  }
+}

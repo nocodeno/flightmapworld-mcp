@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.flightmapworld/flights",
+  "title": "FlightMapWorld",
+  "description": "Flight routes worldwide: nonstop destinations, airlines, flight times and the lowest fares.",
+  "version": "1.0.0",
+  "websiteUrl": "https://flightmapworld.com/mcp",
+  "repository": {
+    "url": "https://github.com/nocodeno/flightmapworld-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://flightmapworld.com/mcp"
+    }
+  ]
+}
